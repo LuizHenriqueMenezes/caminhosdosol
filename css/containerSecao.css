@@ -8,3 +8,12 @@
     padding: 15px;
     transition:padding 0.5s;
   }
+
+  @media(max-width: 900px) {
+    .containerSecao{
+      display: flex;
+      flex-direction: column;
+      width: 60%;
+      left: 10%;
+    }
+  }
