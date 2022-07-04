@@ -10,7 +10,7 @@
   }
 
   @media(max-width: 900px) {
-    .containerSecao{
+    .containerSecao img{
       display: flex;
       flex-direction: column;
       width: 60%;
